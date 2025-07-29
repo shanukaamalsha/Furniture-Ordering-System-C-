@@ -2,10 +2,6 @@
 
 This is a console-based Furniture Ordering System built using **C++**. It simulates a simple order management system for a furniture store, allowing users to view products, place orders, and manage summaries through a terminal-based interface.
 
-<p align="center">
-  <img src="./preview.png" alt="Furniture Ordering System Preview" width="700"/>
-</p>
-
 ## 🎯 Purpose
 
 This project was developed as a functional and object-oriented programming exercise using **C++**. It focuses on:
@@ -15,6 +11,22 @@ This project was developed as a functional and object-oriented programming exerc
 - Use of classes and objects
 - Input validation
 - Modular structure
+
+---
+
+## 📄 Project Documentation
+
+📘 A detailed **Software Requirements Specification (SRS)** document is included in this repository. It outlines the system's:
+
+- Functional & non-functional requirements  
+- Use case descriptions  
+- System architecture overview  
+- Design considerations  
+
+> You can find the SRS document inside the repository as:  
+> 📂 `SRS.pdf`
+
+This makes it a useful reference for academic, documentation, and software planning purposes.
 
 ---
 
