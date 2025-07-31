@@ -50,6 +50,12 @@ This makes it a useful reference for academic, documentation, and software plann
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+1. **Clone the repo**
+
+## Stay Connected
+
+- 🌐 **Infosphere Site:** https://infosphere-nexus.netlify.app/ 
+- 👤 **Facebook:** https://www.facebook.com/share/1C55BHgCG7/
+- ▶️ **YouTube Channel:** https://www.youtube.com/@infosphere_nexus
 
 Happy Coding!!!
